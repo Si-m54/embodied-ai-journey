@@ -1,2 +1,3 @@
-# embodied-ai-journey
-My  journey into Embodied AI &amp; Robot Learning: from DL fundamentals to real-robot deployment
+# Embodied AI Journey
+Goal: PhD in Robot Learning / Embodied AI (Europe, 2028 intake)
+Progress: see [ROADMAP.md](./ROADMAP.md)
